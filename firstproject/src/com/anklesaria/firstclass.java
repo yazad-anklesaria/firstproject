@@ -25,6 +25,19 @@ public class firstclass {
 		// End of tutorial
 		
 		//TODO: Add your code below this line
+		
+		blnAlwaysDaddyNu = true;
+		
+		if (blnAlwaysDaddyNu == true)
+		{
+			System.out.println("Always Daddynu");
+		}
+		else 
+		{
+			System.out.println("Always Mummanu");
+		}
+		
+		
 	}
 
 }
